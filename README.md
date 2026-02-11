@@ -2,10 +2,10 @@
 
 2. Unzip in folder
 
-3. run Runner exe
+3. Run setup exe
 
 4. Wait until the client inject into a game
 
-5. Run a menu at F6
+5. Run menu at F6
 
 6. Enjoy!
