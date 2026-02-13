@@ -1,8 +1,8 @@
-1. Download archive from release.
+1. Download archive from release. 
 
 2. Unzip in folder
 
-3. Run setup exe
+3. Run exe
 
 4. Wait until the client inject into a game
 
